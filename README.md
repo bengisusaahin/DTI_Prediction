@@ -6,7 +6,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-  We are two students who studying computer science and engineering at Akdeniz University. This is term project for our Introduction to Bioinformatics course. The subject is the drug target interaction prediction.
+  We are two students who studying computer science and engineering at Akdeniz University. This is a term project for our Introduction to Bioinformatics course. The subject is the drug target interaction prediction.
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -26,14 +26,14 @@ Weight decay, also known as L2 regularization, helps prevent overfitting by addi
 The number of epochs determines the number of times the model iterates over the entire training dataset. We conducted experiments to determine the appropriate number of epochs for our model. 
 
 ## Result
-![image](https://github.com/bengisusaahin/DTI_Prediction/assets/74653216/bcd301ac-ee27-4065-877d-679243df8a32)
+<img src="https://github.com/bengisusaahin/DTI_Prediction/assets/74653216/bcd301ac-ee27-4065-877d-679243df8a32" width="400" height="280">
 
 To investigate the impact of different learning rates on the performance of our model, we conducted experiments using three distinct learning rates: 0.01, 0.02, and 0.005. 
 Based on these results, we can infer that the learning rate significantly affects the model's performance. A learning rate of 0.02 produced the best performance in terms of both AUROC and AUPR scores. Therefore, we selected a learning rate of 0.02 for further experiments and analysis.
 
-![image](https://github.com/bengisusaahin/DTI_Prediction/assets/74653216/066c94e1-196a-46da-80dd-979adcad9312)
+<img src="https://github.com/bengisusaahin/DTI_Prediction/assets/74653216/066c94e1-196a-46da-80dd-979adcad9312" width="400" height="280">
 
-![image](https://github.com/bengisusaahin/DTI_Prediction/assets/74653216/8dd43076-8c8c-4437-ab35-837dfed5ea21)
+<img src="https://github.com/bengisusaahin/DTI_Prediction/assets/74653216/8dd43076-8c8c-4437-ab35-837dfed5ea21" width="400" height="280">
 
 To explore the impact of different weight decay values on the performance of our model, we conducted experiments using two distinct weight decay values: 0.0005 and 0.0002. 
 Based on these results, we can infer that the weight decay value has an impact on the model's performance. Therefore, we selected a weight decay value of 0.0005 for further experiments and analysis.
