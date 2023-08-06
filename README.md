@@ -6,7 +6,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-  We are two students who studying computer science and engineering at Akdeniz University. This is term project for our Introduction to Bioinformatics course. Subject is about the drug target interaction prediction.
+  We are two students who studying computer science and engineering at Akdeniz University. This is term project for our Introduction to Bioinformatics course. The subject is the drug target interaction prediction.
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -16,7 +16,8 @@
 	We visualized the intricate network of interactions between drugs and their target proteins by creating an extensive drug-protein interaction graph. The graph representation was enhanced by the addition of informative characteristics obtained from similarity matrices, which also gave the GCN model crucial data for forecasting. Our technology successfully learned and utilized the complex relationships and interactions inside the DTI network by fusing feature learning with graph structure.
 
 ## Contribution
-![image](https://github.com/bengisusaahin/DTI_Prediction/assets/74653216/fa7504e8-5cb8-427f-88d0-681cf764d798)
+<img src="https://github.com/bengisusaahin/DTI_Prediction/assets/74653216/fa7504e8-5cb8-427f-88d0-681cf764d798" width="400" height="280">
+
 1) Learning Rate
 The learning rate is a crucial hyperparameter that determines the step size during the optimization process. To select an optimal learning rate for our model, we conducted a parameter search by evaluating the performance of the model on a validation set. 
 2) Weight Decay
